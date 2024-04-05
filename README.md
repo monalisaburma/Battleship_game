@@ -11,7 +11,7 @@ This project is a simple implementation of the classic game Battleship, created 
 - Visual feedback for hits and misses.
 
 ## Prerequisites
-Before running this game, you need to have Python installed on your system. Python 3.x is recommended. You can download Python here.
+Before running this game, you need to have Python installed on your system.
 
 ## Installation
 ### To play the game, clone the repository to your local machine using the following command:
