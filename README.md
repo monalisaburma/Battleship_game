@@ -35,6 +35,10 @@ python battleship.py
 - Continue attacking until all ships are sunk.
 - The game ends when all ships are sunk, and a victory message is displayed.
 
+## Game Preview
+
+![Screenshot 2024-04-05 131424](https://github.com/monalisaburma/Battleship_game/assets/122416015/0ff2528b-5540-4395-8d56-c6682130fb96)
+
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
