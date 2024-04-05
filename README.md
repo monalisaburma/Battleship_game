@@ -16,7 +16,7 @@ Before running this game, you need to have Python installed on your system. Pyth
 ## Installation
 ### To play the game, clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/battleship-game.git
+git clone https://github.com/monalisaburma/Battleship_game.git
 ```
 
 ### Navigate to the cloned repository's directory:
@@ -26,7 +26,7 @@ cd battleship-game
 
 ### Run the game using Python:
 ```bash
-python battleship.py
+python battleship_gui.py
 ```
 
 ## How to Play
@@ -43,7 +43,7 @@ python battleship.py
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgments
 - This project was inspired by the traditional board game Battleship.
